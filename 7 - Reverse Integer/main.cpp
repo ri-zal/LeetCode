@@ -5,7 +5,6 @@
 int main() {
     int x;
     std::vector<int> x_parts;
-    int index = 0;
 
     std::cout << "Enter integer to be reversed: ";
     std::cin >> x;
